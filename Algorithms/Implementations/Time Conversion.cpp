@@ -2,13 +2,6 @@
 
 using namespace std;
 
-/*
- * Complete the 'timeConversion' function below.
- *
- * The function is expected to return a STRING.
- * The function accepts STRING s as parameter.
- */
-
 string timeConversion(string s) {
 
 int h1=(int)s[0] - '0';
